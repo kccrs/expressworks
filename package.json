@@ -1,0 +1,24 @@
+{
+  "name": "expressworks",
+  "version": "1.0.0",
+  "description": "NodeSchool workshop - ExpressWorks",
+  "main": "good-old-form.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kccrs/expressworks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kccrs/expressworks/issues"
+  },
+  "homepage": "https://github.com/kccrs/expressworks#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "stylus": "^0.54.5"
+  }
+}
